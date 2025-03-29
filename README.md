@@ -1,5 +1,5 @@
 # Decen Learn - BugHunter AI
-
+![Image](./images/Image.PNG)
 Decen Learn is a Web3-based educational platform designed to make learning programming fun, earn NFT-based certificates, and play AI-powered logic games on-chain. This project is part of the ICP hackathon and focuses on the **BugHunter AI** feature, where users find and fix bugs in coding challenges.
 
 ## 🚀 Features
@@ -26,12 +26,24 @@ Decen Learn is a Web3-based educational platform designed to make learning progr
 ## 📜 How to Run the Project
 Deploy on the website https://icp.ninja/s/wRnWw
 
-
 ## 🎯 Roadmap
 - [x] Implement BugHunter AI game
 - [ ] Launch Decen Learn courses with NFT certificates
 - [ ] Integrate smart contract-based ranking rewards
 - [ ] Expand AI-powered learning features
+
+## 📷 Images
+### 🏆 Leaderboard  
+![Leaderboard](./images/Leaderboard.PNG)
+
+### 🎚️ Level  
+![Level](./images/Level.PNG)
+
+### ✅ Correct Answer  
+![Correct Answer](./images/Correct%20Answer.PNG)
+
+### ❌ Wrong Answer  
+![Wrong Answer](./images/Wrong%20Answer.PNG)
 
 ## 📩 Contact
 For any inquiries, reach out via fxjrin@gmail.com.
