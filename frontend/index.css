@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --blue-50: #F0F9FF;
+    --blue-100: #DFF2FF;
+    --blue-200: #B9E5FE;
+    --blue-300: #7AD3FF;
+    --blue-400: #34BDFC;
+    --blue-500: #1CB0F6;
+    --blue-600: #0083CB;
+    --blue-700: #0068A4;
+    --blue-800: #045988;
+    --blue-900: #0A4A70;
+    --blue-950: #072E4A;
+
+    --primary: var(--blue-500);
+    --secondary: var(--blue-200);
+
+    --background: #171e23;
+    --foreground: #37464F;
+
+    --light: #171e23;
+
+    --border: #37464F;
+    --button-bg: #171e23;
+    --button-hover: #1E272E;
+
+    --success: #a3e635;
+    --warning: #facc15;
+    --danger: #ef4444;
+}
+
+.light {
+    --blue-50: #F0F9FF;
+    --blue-100: #DFF2FF;
+    --blue-200: #B9E5FE;
+    --blue-300: #7AD3FF;
+    --blue-400: #34BDFC;
+    --blue-500: #1CB0F6;
+    --blue-600: #0083CB;
+    --blue-700: #0068A4;
+    --blue-800: #045988;
+    --blue-900: #0A4A70;
+    --blue-950: #072E4A;
+
+    --primary: var(--blue-500);
+    --secondary: var(--blue-200);
+    --background: #ffffff;
+
+    --light: #171e23;
+}
+
+.dark {
+    --blue-50: #F0F9FF;
+    --blue-100: #DFF2FF;
+    --blue-200: #B9E5FE;
+    --blue-300: #7AD3FF;
+    --blue-400: #34BDFC;
+    --blue-500: #1CB0F6;
+    --blue-600: #0083CB;
+    --blue-700: #0068A4;
+    --blue-800: #045988;
+    --blue-900: #0A4A70;
+    --blue-950: #072E4A;
+
+    --primary: var(--blue-500);
+    --secondary: var(--blue-200);
+    --background: #171e23;
+
+    --light: #ffffff;
+    
+}
